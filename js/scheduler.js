@@ -80,7 +80,7 @@ function updateColor() {
 
 function timeToLeft() {
     //time to left 
-    let timeStart = 185;
+    let timeStart = 170;
     let timePage1 = [136, 86, 36];
     let timePage2 = [158, 108, 58, 8];
     let intervalIdTimeLeft = setInterval(

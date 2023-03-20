@@ -11,7 +11,7 @@ let page3content =
 
 
     "<div id='page3-logo'>" +
-    "<div class='logo-container'><img src='./assets/logo.jpeg' alt='logo'/></div>" +
+    // "<div class='logo-container'><img src='./assets/logo.jpeg' alt='logo'/></div>" +
     "</div>" +
 
 

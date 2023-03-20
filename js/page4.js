@@ -66,7 +66,7 @@ let page4content =
 
     "<div id='page4bloc1-logo-time' >" +
     "<div id='page4bloc1-logo-time-logo' >" +
-    "<img src='./assets/logo.jpeg' alt='logo'/>" +
+    // "<img src='./assets/logo.jpeg' alt='logo'/>" +
     "</div>" +
     "<div id='page4bloc1-logo-time-time' >" +
     "<span>Time</span>" +

@@ -3,7 +3,7 @@ let page1content =
     //item 1
     "<div id='page1item1' class='page1items'>" +
     "<div id='page1items-content'>" +
-    "<div class='logo-container'><img  src='./assets/logo.jpeg' alt='logo'/></div>" +
+    // "<div class='logo-container'><img  src='./assets/logo.jpeg' alt='logo'/></div>" +
     "<div class='shuffle'><img id='img-shuffle' alt='shuffle' src='./assets/shuffle.gif'/></div>" +
     "<table id='item1table'  class='itemtable'>" +
     "<tr><td colspan=2>10 numero</td></tr>" +
